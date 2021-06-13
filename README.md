@@ -5,8 +5,7 @@ I'm a prospective Data Scientist.
 ## Skills
 Skills that I've used at least once
 
- <img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?&style=plastic&logo=r&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?&style=plastic&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=plastic&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Java Script-1572B6?&style=plastic&logo=JS&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=html5&logoColor=white">
