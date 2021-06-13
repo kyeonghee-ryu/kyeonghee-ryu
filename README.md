@@ -16,4 +16,4 @@ Skills that I've used at least once
 ## Education
 | Date | Organization | Details |
 | ------ | ------ | ------ |
-|2016.03 ~ 2021.02 | Hankik University of Foreign Studies|Department of Brazillian Studies, Statistics|
+|2016.03 ~ 2021.02 | Hankuk University of Foreign Studies|Department of Brazillian Studies, Statistics|
