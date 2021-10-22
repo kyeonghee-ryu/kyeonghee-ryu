@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kyeonghee%20Ryu&fontSize=90)
 
 
-I'm a prospective Data Scientist.
 ## Skills
 Skills that I've used at least once
 
